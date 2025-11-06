@@ -1,0 +1,111 @@
+<section class="expworksec">
+  <div class="container">
+    <div class="expworkwrap">
+      <h4>How It Works?</h4>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="expworkbox">
+            <h6>Choose</h6>
+            <p>Place a prepaid order online before <strong>[Cutoff Time : 4 PM]</strong></p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="expworkbox">
+            <h6>Select</h6>
+            <p>Only paid orders accepted for express delivery</p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="expworkbox">
+            <h6>Receive</h6>
+            <p>Receive your order within <strong>3 hours!</strong></p>
+          </div>
+        </div>
+        
+        <div class="cold-md-12 imp_notice-exrpess">
+          <img src="https://cdn.shopify.com/s/files/1/0695/8832/0569/files/warning.png?v=1758112803" width="50" height="50" loading="lazy" alt="info sign" >
+          <p>Please make sure to provide the correct address and an active phone number, as your order will be delivered through Bykea. Place your order between 9:00 AM and 4:00 PM to enjoy express same-day delivery (available for paid orders within Karachi only).</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="standardsec">
+  <div class="container">
+    <div class="standev" style="background-image:url('https://cdn.shopify.com/s/files/1/0695/8832/0569/files/Truck_Design_1.jpg?v=1739369436')">
+      <div>
+        <h4>Standard Delivery</h4>
+        <h6>Free and Nationwide</h6>
+        <p>For customers across Pakistan, we offer free standard <br>delivery with reliable timelines tailored to your city.</p>
+      </div>
+    </div>
+    <div class="standboxes">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="standbox">
+            <h6>Delivery Timelines</h6>
+            <ul>
+              <li>Karachi: 1–2 business days.</li>
+              <li>Main Cities (Lahore, Islamabad, Rawalpindi, etc.): 3–4 business days.</li>
+              <li>Other Cities: 4–5 business days.</li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="standbox">
+            <h6>Key Features</h6>
+            <ul>
+              <li>Free Delivery: Enjoy standard shipping at no additional cost.</li>
+              <li>Wide Coverage: Available in all cities and towns across Pakistan.</li>
+              <li>Order Tracking: Stay informed with real-time tracking updates via email or SMS.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="addengrave">
+  <div class="container">
+    <div class="addengwrap">
+      <h4>Why Choose <span>RONIN Delivery?</span></h4>
+      <ul>
+        <li>
+          <span>01</span>
+          <h6>Fast and Reliable Service</h6>
+          <p>Whether it’s Express or Standard, we ensure your products arrive on time.</p>
+        </li>
+        <li>
+          <span>02</span>
+          <h6>Enter Your Custom Text</h6>
+          <p>Get updates from checkout to delivery.</p>
+        </li>
+        <li>
+          <span>03</span>
+          <h6>Customer-Centric Approach</h6>
+          <p>Your convenience is our priority.</p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="engrvcta trackcta">
+      <div class="row align-items-center">
+        <div class="col-md-8">
+          <h4>Track Your Order</h4>
+          <p>Track your delivery status in real time! Once your order</p>
+        </div>
+        <div class="col-md-4">
+          <a href="https://ronin.pk/pages/track-order">Track Your Order <span><i class="far fa-angle-right"></i></span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+CSS
