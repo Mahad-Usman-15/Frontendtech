@@ -157,7 +157,7 @@ import svg from "../assets/images/hamburger.svg"
 export default function Header() {
   const pathname = useLocation()
   const [isOpened, setIsOpened] = useState(false);
-const [isClicked,setisclicked]=useState(false)
+
   const [isheaderitemhovered, setisheaderitemhovered] = useState<HeaderItems | null>(null)
   const handleToggleMenu = () => {
     setIsOpened(!isOpened);
