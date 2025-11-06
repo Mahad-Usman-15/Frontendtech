@@ -59,9 +59,9 @@ export default function MobileHeader() {
 
 
     <motion.div initial={{ opacity: 0, height: 0 }}
-      animate={{ opacity: 1, height: 500,width:340 }}
+      animate={{ opacity: 1, height: 500,width:"100%",position:"center" }}
       exit={{ opacity: 0, height: 0 }}
-      transition={{ duration: 0.3 }} className="absolute bg-white px-4 py-5 w-full   shadow-xl   z-50 mr-1 -mt-4 ml-2">
+      transition={{ duration: 0.3 }} className="absolute bg-white px-4 py-5 w-full   shadow-xl   z-50 -mt-4 -ml-2">
       <h1 className='text-base bg-clip-text text-transparent bg-gradient-to-r from-blue-900 via-blue-700 to-blue-500 font-semibold mb-2'>
         Software Earbuds
       </h1>
