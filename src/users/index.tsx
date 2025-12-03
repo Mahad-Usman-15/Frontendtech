@@ -22,7 +22,7 @@ export function TableDemo() {
 
     useEffect(()=>{
         const fetchusers=()=>{
-         axios.get("http://localhost:5000/api/auth/users").then((res) => setisUsers(res.data)).catch((error)=>console.log("Error=>",error));  
+         axios.get("https://userlogin-backend.vercel.app/api/auth/users").then((res) => setisUsers(res.data)).catch((error)=>console.log("Error=>",error));  
         }
         fetchusers()
     },[])
